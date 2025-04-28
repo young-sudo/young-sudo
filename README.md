@@ -1,6 +1,8 @@
 ## Hello world! 👋
 
+My name is **Younginn**
 
+- ⚙️ I use daily: `.py`, `.ipynb`, `.R`, `.Rmd`, `.sh`
 
 <!--
 **young-sudo/young-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
