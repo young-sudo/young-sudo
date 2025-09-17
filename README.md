@@ -7,6 +7,10 @@ My name is **Younginn**
 <!--
 **young-sudo/young-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Experience and achievements:
+- 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
