@@ -34,7 +34,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ### 📝 Publications
 
 * **Computational pipeline for sustainable enzyme discovery through (re)use of metagenomic data**
-    * *Journal of Environmental Management*, 2025.
+    * *Journal of Environmental Management*, K. Ciuchciński et al. 2025.
     * [DOI Link: `10.1016/j.jenvman.2025.125381`](https://doi.org/10.1016/j.jenvman.2025.125381)
 
 
