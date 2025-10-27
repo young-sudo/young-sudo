@@ -10,6 +10,13 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 
 `.html`, `.css`, `.java`, `.sql`
 
+
+### 📝 Publications
+
+* **Computational pipeline for sustainable enzyme discovery through (re)use of metagenomic data**
+    * *Journal of Environmental Management*, K. Ciuchciński et al. 2025., [DOI: 10.1016/j.jenvman.2025.125381](https://doi.org/10.1016/j.jenvman.2025.125381)
+    
+
 <!--
 ### 📂 Projects
 
@@ -31,11 +38,6 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 * **Repository:** [Project Repo](https://github.com/young-sudo/meet-eu-2023-projects)
 -->
 
-### 📝 Publications
-
-* **Computational pipeline for sustainable enzyme discovery through (re)use of metagenomic data**
-    * *Journal of Environmental Management*, K. Ciuchciński et al. 2025.
-    * [DOI Link: `10.1016/j.jenvman.2025.125381`](https://doi.org/10.1016/j.jenvman.2025.125381)
 
 
 <!--
