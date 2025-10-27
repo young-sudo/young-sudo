@@ -2,21 +2,23 @@
 
 My name is **Younginn**
 
-My passion lies in exploring and innovating at the intersection of **natural sciences** and **information sciences**. I utilize real-life data to drive significant practical advancements, with a focus on **biomedical** and **environmental research**.
+My interests lie in exploring and innovating at the intersection of **natural sciences** and **information sciences** using both predictive **machine learning** and **deep OMICS-based** computational methods. I utilize real-life data to drive significant practical advancements, with a focus on **biomedical** and **environmental research**. 
 
-### 🚀 Core Skills
-
+### 🚀 Skills
+#### Core
 `.py`, `.ipynb`, `.R`, `.Rmd`, `.sh`, `.sas`
 
+#### Also
 `.html`, `.css`, `.java`, `.sql`
 
-
+<!--
 ### 📂 Projects
 
 #### **INDEPTH/Grieg Project**
 * **Duration:** October 2022 – April 2024
 * **Focus:** **Computational Bioprospecting** and analysis of deep-sea marine ecosystems.
 * **Impact:** Designed and evaluated **novel computational pipelines** for **metagenomic** and bioprospecting analyses, conducted in collaboration with the University of Gdańsk, Polish Academy of Sciences, and University of Bergen.
+
 
 #### **Deep Learning in Life Sciences Hackathon**
 * **Duration:** March 2025 – June 2025 (4EU+ at Heidelberg University)
@@ -28,7 +30,7 @@ My passion lies in exploring and innovating at the intersection of **natural sci
 * **Focus:** Molecular Biology and **ML-based Drug Design**.
 * **Impact:** Evaluated the strengths and limitations of both classical and machine learning methods for drug candidate selection.
 * **Repository:** [Project Repo](https://github.com/young-sudo/meet-eu-2023-projects)
-
+-->
 
 ### 📝 Publications
 
