@@ -1,24 +1,42 @@
-## Hello world! 👋
+## Hello world!
 
 My name is **Younginn**
 
-- ⚙️ I use daily: `.py`, `.ipynb`, `.R`, `.Rmd`, `.sh`, `.sas`
+My passion lies in exploring and innovating at the intersection of **natural sciences** and **information sciences**. I utilize real-life data to drive significant practical advancements, with a focus on **biomedical** and **environmental research**.
+
+### 🚀 Core Skills
+
+`.py`, `.ipynb`, `.R`, `.Rmd`, `.sh`, `.sas`
+
+`.html`, `.css`, `.java`, `.sql`
+
+
+### 📂 Projects
+
+#### **INDEPTH/Grieg Project**
+* **Duration:** October 2022 – April 2024
+* **Focus:** **Computational Bioprospecting** and analysis of deep-sea marine ecosystems.
+* **Impact:** Designed and evaluated **novel computational pipelines** for **metagenomic** and bioprospecting analyses, conducted in collaboration with the University of Gdańsk, Polish Academy of Sciences, and University of Bergen.
+
+#### **Deep Learning in Life Sciences Hackathon**
+* **Duration:** March 2025 – June 2025 (4EU+ at Heidelberg University)
+* **Focus:** Exploration of **Machine Learning (ML) applications** across diverse life science data.
+* **Impact:** Developed projects utilizing state-of-the-art **Deep Learning** models for **Omics**, **Image Analysis**, and **Drug Design** applications.
+
+#### **Interdisciplinary Drug Design Project**
+* **Duration:** October 2023 – February 2024 (4EU+ at Charles University)
+* **Focus:** Molecular Biology and **ML-based Drug Design**.
+* **Impact:** Evaluated the strengths and limitations of both classical and machine learning methods for drug candidate selection.
+* **Repository:** [Project Repo](https://github.com/young-sudo/meet-eu-2023-projects)
+
+
+### 📝 Publications
+
+* **Computational pipeline for sustainable enzyme discovery through (re)use of metagenomic data**
+    * *Journal of Environmental Management*, 2025.
+    * [DOI Link: `10.1016/j.jenvman.2025.125381`](https://doi.org/10.1016/j.jenvman.2025.125381)
+
 
 <!--
 **young-sudo/young-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Experience and achievements:
-- 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
