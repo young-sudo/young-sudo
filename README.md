@@ -18,7 +18,8 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 `.html`, `.css`, `.java`, `.sql`
 -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,6 +43,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![PyMOL](https://img.shields.io/badge/PyMOL-0099CC?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=postman&logoColor=white)
+![ClearML](https://img.shields.io/badge/ClearML-00BFA6?style=for-the-badge&logo=clearml&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-4D708B?style=for-the-badge&logo=shiny&logoColor=white)
