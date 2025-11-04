@@ -60,8 +60,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 
 ### 🛠️ Projects
 * **Computational drug design study employing AlphaFold-Multimer for structural modeling and docking simulations of amino acid–derived drug candidates**
-   * Academic project conducted during the 4EU+ Program at _Charles University_
-   * [**GitHub** repository](https://github.com/young-sudo/meet-eu-2023-projects)
+   * Academic project conducted during the 4EU+ Program at _Charles University_ ([**GitHub** repository](https://github.com/young-sudo/meet-eu-2023-projects))
 
 <!--
 ### 📂 Projects
