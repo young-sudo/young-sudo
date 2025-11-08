@@ -59,7 +59,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
     * *Journal of Environmental Management*, K. Ciuchciński et al. 2025, [DOI: 10.1016/j.jenvman.2025.125381](https://doi.org/10.1016/j.jenvman.2025.125381)
 
 ### 🛠️ Projects
-* **Computational drug design study employing AlphaFold-Multimer for structural modeling and docking simulations of amino acid–derived drug candidates**
+* **Computational drug design study employing AlphaFold-Multimer for structural modeling and docking simulations of amino acid-derived drug candidates**
    * Academic project conducted during the 4EU+ Program at _Charles University_, Prague, Czechia ([**GitHub** repository](https://github.com/young-sudo/meet-eu-2023-projects))
 
 <!--
