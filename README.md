@@ -36,6 +36,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ![Plotly](https://img.shields.io/badge/Plotly-3F00D3?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-82C8D9?style=for-the-badge&logo=chartdotjs&logoColor=black)
@@ -62,7 +63,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ### 🛠️ Projects
 * **DeepLife: Deep Learning in Life Sciences**, 4EU+ Initiative at _Heidelberg University_, Germany, Mar 2025 - Jun 2025
 * **Interdisciplinary SARS-CoV-2 Drug Design Project**, 4EU+ Initiative at _Charles University_, Czechia, Oct 2023 - Feb 2024 ([GitHub](https://github.com/young-sudo/meet-eu-2023-projects))
-* **INDEPTH Project**, _University of Warsaw_ in collaboration with _University of Gdańsk_ & _University of Bergen_, Dec 2021 - Apr 2024, [link](https://indepth.ug.edu.pl/)
+* **INDEPTH Project**, _University of Warsaw_ in collaboration with _University of Gdańsk_ & _University of Bergen_, Dec 2021 - Apr 2024 ([link](https://indepth.ug.edu.pl/))
 
 
 <!--
