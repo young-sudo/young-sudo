@@ -63,7 +63,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ### 🛠️ Projects
 * **DeepLife: Deep Learning in Life Sciences**, 4EU+ Initiative at _Heidelberg University_, Germany, Mar 2025 - Jun 2025
 * **Interdisciplinary SARS-CoV-2 Drug Design Project**, 4EU+ Initiative at _Charles University_, Czechia, Oct 2023 - Feb 2024 ([GitHub](https://github.com/young-sudo/meet-eu-2023-projects))
-* **INDEPTH Project**, _University of Warsaw_ in collaboration with _University of Gdańsk_ & _University of Bergen_, Dec 2021 - Apr 2024 ([link](https://indepth.ug.edu.pl/))
+* **INDEPTH/GRIEG Project - Life at the limits: diversity, adaptation strategies and bioprospecting  of microbes living in Arctic deep-sea habitats**, _University of Warsaw_ in collaboration with _University of Gdańsk_ & _University of Bergen_, Dec 2021 - Apr 2024 ([link](https://indepth.ug.edu.pl/))
 
 
 <!--
