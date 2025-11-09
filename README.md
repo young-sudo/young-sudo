@@ -60,11 +60,10 @@ My interests lie in exploring and innovating at the intersection of **natural sc
     * *Journal of Environmental Management*, K. Ciuchciński et al. 2025, [DOI: 10.1016/j.jenvman.2025.125381](https://doi.org/10.1016/j.jenvman.2025.125381)
 
 ### 🛠️ Projects
-* **Computational drug design study employing AlphaFold-Multimer for structural modeling and docking simulations of amino acid-derived drug candidates**
-   * Academic project conducted during the 4EU+ Program at _Charles University_, Prague, Czechia ([**GitHub** repository](https://github.com/young-sudo/meet-eu-2023-projects))
+* **DeepLife: Deep Learning in Life Sciences**, 4EU+ Initiative at _Heidelberg University_, Germany, Mar 2025 - Jun 2025
+* **Interdisciplinary SARS-CoV-2 Drug Design Project**, 4EU+ Initiative at _Charles University_, Czechia, Oct 2023 - Feb 2024 ([**GitHub** repository](https://github.com/young-sudo/meet-eu-2023-projects))
+* **INDEPTH Project**, _University of Warsaw_ in collaboration with _University of Gdańsk_ & _University of Bergen_, Dec 2021 - Apr 2024, [link](https://indepth.ug.edu.pl/)
 
-🌐 [LinkedIn](https://www.linkedin.com/in/younginn-park/)
-📰 [ORCiD](https://orcid.org/0009-0002-5176-9584)
 
 <!--
 ### 📂 Projects
