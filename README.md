@@ -63,7 +63,9 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 * **Computational drug design study employing AlphaFold-Multimer for structural modeling and docking simulations of amino acid-derived drug candidates**
    * Academic project conducted during the 4EU+ Program at _Charles University_, Prague, Czechia ([**GitHub** repository](https://github.com/young-sudo/meet-eu-2023-projects))
 
-🌐 My [LinkedIn](https://www.linkedin.com/in/younginn-park/)
+🌐 [LinkedIn](https://www.linkedin.com/in/younginn-park/)
+📰 [ORCiD](https://orcid.org/0009-0002-5176-9584)
+
 <!--
 ### 📂 Projects
 
