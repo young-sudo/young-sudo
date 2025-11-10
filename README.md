@@ -54,6 +54,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
+<!--
 ### 📝 Publications
 
 * **Computational pipeline for sustainable enzyme discovery through (re)use of metagenomic data**
@@ -64,6 +65,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 * **Interdisciplinary SARS-CoV-2 Drug Design Project**, 4EU+ Initiative at _Charles University_, Czechia, Oct 2023 - Feb 2024 ([GitHub](https://github.com/young-sudo/meet-eu-2023-projects))
 * **INDEPTH/GRIEG Project - Life at the limits: diversity, adaptation strategies and bioprospecting  of microbes living in Arctic deep-sea habitats**, _University of Warsaw_ in collaboration with _University of Gdańsk_ & _University of Bergen_, Dec 2021 - Apr 2024 ([link](https://indepth.ug.edu.pl/))
 
+-->
 
 <!--
 ### 📂 Projects
