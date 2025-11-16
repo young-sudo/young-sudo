@@ -35,6 +35,8 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ClearML](https://img.shields.io/badge/ClearML-00BFA6?style=for-the-badge&logo=mlflow&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-333333?style=for-the-badge&logo=python&logoColor=white)
 
 <!--
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -53,8 +55,6 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![RDKit](https://img.shields.io/badge/RDKit-003366?style=for-the-badge&logo=python&logoColor=white)
 ![PyMOL](https://img.shields.io/badge/PyMOL-0099CC?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![ClearML](https://img.shields.io/badge/ClearML-00BFA6?style=for-the-badge&logo=mlflow&logoColor=white)
-![Snakemake](https://img.shields.io/badge/Snakemake-333333?style=for-the-badge&logo=python&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=R&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=databricks&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-4D708B?style=for-the-badge&logo=r&logoColor=white)
