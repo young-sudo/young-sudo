@@ -6,7 +6,8 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 -->
 
 - 🔭 **Interested in**: Information Sciences × Life Sciences
-- 💡 **Skilled in**: Machine Learning + OMICS-based Computational Methods
+- 💡 **
+Skilled in**: Machine Learning + OMICS-based Computational Methods
 - 🧬 **Focused on**: Biomedical / Drug Design / Environmental Research
 
 
@@ -36,6 +37,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![ClearML](https://img.shields.io/badge/ClearML-00BFA6?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Snakemake](https://img.shields.io/badge/Snakemake-333333?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-42A5F5?style=for-the-badge&logo=serverfault&logoColor=white)
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
