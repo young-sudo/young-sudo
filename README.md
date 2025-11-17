@@ -6,8 +6,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 -->
 
 - 🔭 **Interested in**: Information Sciences × Life Sciences
-- 💡 **
-Skilled in**: Machine Learning + OMICS-based Computational Methods
+- 💡 **Skilled in**: Machine Learning + OMICS-based Computational Methods
 - 🧬 **Focused on**: Biomedical / Drug Design / Environmental Research
 
 
