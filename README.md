@@ -26,11 +26,11 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![SAS](https://img.shields.io/badge/SAS-007CC3?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
 
-![REST](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=termius&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-42A5F5?style=for-the-badge&logo=serverfault&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=postman&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C2D91?style=for-the-badge&logo=opencv&logoColor=white)
