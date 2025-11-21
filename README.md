@@ -40,6 +40,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apptainer](https://img.shields.io/badge/Apptainer-2E6CE6?style=for-the-badge&logo=linuxcontainers&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,7 +59,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![AlphaFold](https://img.shields.io/badge/AlphaFold-1E4D8B?style=for-the-badge&logo=google&logoColor=white)
 ![RDKit](https://img.shields.io/badge/RDKit-003366?style=for-the-badge&logo=python&logoColor=white)
 ![PyMOL](https://img.shields.io/badge/PyMOL-0099CC?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=R&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=databricks&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-4D708B?style=for-the-badge&logo=r&logoColor=white)
