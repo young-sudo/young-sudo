@@ -1,6 +1,6 @@
 ## Hello world!
 
-My name is **Younginn** 👋 `/young + inn/`
+My name is **Younginn** 👋
 <!--
 My interests lie in exploring and innovating at the intersection of **natural sciences** and **information sciences**, through computational methods, ranging from predictive **machine learning (ML)** and **deep learning (DL)** to rigorous, deep **OMICS-based** analyses. I utilize real-life data to drive significant practical advancements, with a focus on **biomedical** and **environmental research**. 
 -->
