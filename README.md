@@ -1,16 +1,16 @@
 ## Hello world!
 
-My name is **Younginn** 👋
+My name is **Younginn** 👋 `/young + inn/`
 <!--
 My interests lie in exploring and innovating at the intersection of **natural sciences** and **information sciences**, through computational methods, ranging from predictive **machine learning (ML)** and **deep learning (DL)** to rigorous, deep **OMICS-based** analyses. I utilize real-life data to drive significant practical advancements, with a focus on **biomedical** and **environmental research**. 
 -->
 
-- 🔭 **Interested in**: Information Sciences × Life Sciences
-- 💡 **Skilled in**: Machine Learning + OMICS-based Computational Methods
-- 🧬 **Focused on**: Biomedical / Drug Design / Environmental Research
+- **Interested in**: Information Sciences × Life Sciences
+- **Skilled in**: Machine Learning + OMICS-based Computational Methods
+- **Focused on**: Biomedical / Drug Design / Environmental Research
 
 
-### 🚀 Skills
+### Skills
 
 <!--
 `.py`, `.ipynb`, `.R`, `.Rmd`, `.sh`, `.sas`
@@ -65,6 +65,12 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![Shiny](https://img.shields.io/badge/Shiny-4D708B?style=for-the-badge&logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 -->
+
+<!---
+Visit My Portfolio Website at (young-sudo.github.io)[]
+
+--->
+
 
 
 <!--
