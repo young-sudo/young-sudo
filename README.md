@@ -10,7 +10,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 - **Focused on**: Biomedical / Drug Design / Environmental Research
 
 ### Portfolio
-**[young-sudo.github.io](https://www.young-sudo.github.io)**
+**[young-sudo.github.io](https://www.young-sudo.github.io)** (work-in-progress)
 
 
 ### Skills
