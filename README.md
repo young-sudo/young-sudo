@@ -9,6 +9,9 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 - **Skilled in**: Machine Learning + OMICS-based Computational Methods
 - **Focused on**: Biomedical / Drug Design / Environmental Research
 
+### Portfolio
+**[young-sudo.github.io](https://www.young-sudo.github.io)**
+
 
 ### Skills
 
@@ -65,11 +68,6 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![Shiny](https://img.shields.io/badge/Shiny-4D708B?style=for-the-badge&logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 -->
-
-<!---
-Visit My Portfolio Website at (young-sudo.github.io)[]
-
---->
 
 
 
