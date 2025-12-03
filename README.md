@@ -45,7 +45,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=your-github-young-sudo&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=young-sudo&abbreviated=true&style=for-the-badge&color=brightgreen)
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 
 <!--
