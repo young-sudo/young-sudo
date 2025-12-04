@@ -43,6 +43,9 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-sudo)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=young-sudo&abbreviated=true&style=for-the-badge&color=brightgreen)
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 
