@@ -9,9 +9,6 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 - **Skilled in**: Machine Learning + OMICS-based Computational Methods
 - **Focused on**: Biomedical / Drug Design / Environmental Research
 
-![](https://komarev.com/ghpvc/?username=young-sudo&abbreviated=true&style=for-the-badge&color=brightgreen)
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-
 ### Portfolio
 
 🌐 Check out my **✨New Portfolio Website✨**: [**young-sudo.github.io**](https://young-sudo.github.io)
@@ -46,6 +43,8 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=young-sudo&abbreviated=true&style=for-the-badge&color=brightgreen)
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
