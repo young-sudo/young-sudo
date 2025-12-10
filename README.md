@@ -29,13 +29,13 @@ Check out my **✨New Portfolio Website✨** → [**young-sudo.github.io**](http
 ![SAS](https://img.shields.io/badge/SAS-007CC3?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-ffc20c?style=for-the-badge&logo=icloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=termius&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-42A5F5?style=for-the-badge&logo=serverfault&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=postman&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ClearML](https://img.shields.io/badge/ClearML-00BFA6?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Snakemake](https://img.shields.io/badge/Snakemake-333333?style=for-the-badge&logo=python&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-23CC85?style=for-the-badge&logo=nextflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -68,6 +68,7 @@ Check out my **✨New Portfolio Website✨** → [**young-sudo.github.io**](http
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=databricks&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-4D708B?style=for-the-badge&logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![ClearML](https://img.shields.io/badge/ClearML-00BFA6?style=for-the-badge&logo=mlflow&logoColor=white)
 -->
 
 
