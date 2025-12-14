@@ -11,7 +11,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 
 ### **✨Portfolio✨**
 
-Also check out my **New Portfolio Website** → [**young-sudo.github.io**](https://young-sudo.github.io)
+For more projects also check out my **New Portfolio Website** → [**young-sudo.github.io**](https://young-sudo.github.io)
 
 ### Skills
 
