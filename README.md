@@ -11,7 +11,7 @@ My interests lie in exploring and innovating at the intersection of **natural sc
 
 ### ✨ Portfolio
 
-My **full project collection**, organized by topic with **direct GitHub links**:  
+My **full project collection**, organized by topic with **direct GitHub repo links**:  
 👉 **https://young-sudo.github.io**
 
 ### Skills
