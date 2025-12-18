@@ -33,6 +33,7 @@ My **full project collection**, organized by topic with **direct GitHub repo lin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=termius&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-42A5F5?style=for-the-badge&logo=serverfault&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ffc20c?style=for-the-badge&logo=icloud&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge&logo=postman&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -48,7 +49,6 @@ My **full project collection**, organized by topic with **direct GitHub repo lin
 
 <!--
 
-![AWS](https://img.shields.io/badge/AWS-ffc20c?style=for-the-badge&logo=icloud&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
