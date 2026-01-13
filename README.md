@@ -45,6 +45,7 @@ My **full project collection**, organized by topic with **direct GitHub repo lin
 
 ![](https://komarev.com/ghpvc/?username=young-sudo&abbreviated=true&style=pixel&color=brightgreen)
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<!-- ![](https://komarev.com/ghpvc/?username=young-sudo&abbreviated=true&style=for-the-badge&color=brightgreen) -->
 
 <!--
 
